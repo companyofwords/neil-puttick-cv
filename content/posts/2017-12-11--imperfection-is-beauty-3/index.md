@@ -2,6 +2,7 @@
 title: Education/Training 
 subTitle: And it's better to be absolutely ridiculous than absolutely boring 
 cover: photo-1469461084727-4bfb496cf55a-cover.jpg
+category: About
 ---
 
 University of the West of England PGDip Art, Media & Design by Project: Sep 2011 - Mar 2014  

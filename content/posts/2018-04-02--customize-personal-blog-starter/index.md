@@ -2,6 +2,7 @@
 title: Understanding Web Development...
 subTitle: GatsbyJS starter instruction
 cover: photo-1463852247062-1bbca38f7805-cover.jpg
+category: About
 ---
 
 -3 years vocational hands-on experience creating cutting-edge digital presence, producing responsive web-apps and sites for projects and promotional campaigns.

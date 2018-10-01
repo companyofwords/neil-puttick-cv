@@ -2,6 +2,7 @@
 title: Copywriter, Marketer and Researcher
 subTitle: 
 cover: photo-1500531279542-fc8490c8ea4d-cover.jpg
+category: About
 ---
 -As part of SMEs, used to covering many different roles and have experience working with freelancers / contractors to work on product.
 -Forging high-quality SEO-optimised words.
