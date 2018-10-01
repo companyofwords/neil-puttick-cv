@@ -18,8 +18,8 @@ const theme = createMuiTheme({
       linesMargin: "20px"
     },
     fonts: {
-      unstyledFamily: `Arial`,
-      styledFamily: "Open Sans",
+      unstyledFamily: `Lora`,
+      styledFamily: "Patua One",
       styledFonts: "300,400,600"
     }
   },
@@ -152,7 +152,7 @@ const theme = createMuiTheme({
     }
   },
   typography: {
-    fontFamily: `Arial, sans-serif`,
+    fontFamily: `Lora, sans-serif`,
     fontSize: 16
   }
 });
