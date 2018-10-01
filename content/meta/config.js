@@ -27,6 +27,7 @@ module.exports = {
   authorSocialLinks: [
     { name: "github", url: "https://github.com/companyofwords" },
     { name: "twitter", url: "https://twitter.com/companyofwords" },
-    { name: "facebook", url: "http://facebook.com/nfputtick" }
+    { name: "facebook", url: "http://facebook.com/nfputtick" },
+    { name: "linkedin", url: "https://www.linkedin.com/in/neilputtick" },
   ]
 };
