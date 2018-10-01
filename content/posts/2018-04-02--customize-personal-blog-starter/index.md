@@ -1,50 +1,17 @@
 ---
-title: How to customize the PersonalBlog starter's appearance
+title: Understanding Web Development...
 subTitle: GatsbyJS starter instruction
 cover: photo-1463852247062-1bbca38f7805-cover.jpg
 ---
 
-The [starter](/gatsby-starter-personal-blog/) uses a theme object so base customization is really easy.
+-3 years vocational hands-on experience creating cutting-edge digital presence, producing responsive web-apps and sites for projects and promotional campaigns.
+-Managing dynamic, secure, rich-content web-apps with love of React & JS using FAN (Firebase) Stack 
+-Working independently for SMEs building & fixing legacy Wordpress & PHP & building custom themes & plugins for Wordpress that use Laravel or React. Now looking at how to take CMS further to improve performance & user-experience, using Gatsby.JS, Netlify-CMS & Contentful investigating Serverless JAM (API & Saas) Stack, but also open to .NET Frameworks. 
+-Would like to work as part of an agile team or with project management structures. I am familiar with Front End Design-led for UX as well as OOP or functional programmatic design patterns. I love working with others to make a product or service.
+-Strong methodical workflow quickly and reliably scaffolding beautiful future-proof work using NodeJS to generate and manage sites: with NPM, Yarn, and Gulp. GIT revision control from the command line.
+-Using stricter testing and debugging, and DRY efficiency with arsenal of tools to code quicker and make more: Sublime & Visual Code Studio with shortcuts like Emmet. Cleaner code: using ES6 & 7 with Babel, removing HTML clutter & focusing on semantic markup to improve accessibility. Cleaner design: using SASS & innovative use of CSS like Grid Layout or AMP to remove unnecessary code like clearfix.
+-Enabling - I ensure client and team have access and input choices to work. Making lightweight, social-media connected sites anyone can use, integrated into accessible CMS (like Wordpress with Roots or custom Underscores). Now looking at how to use headless front-ends, with CMS removed from the site to increase performance and security.
+ 
+-I am contactable. I know how to liaise with, advise and teach stakeholders. - I can explain work to clients in a straightforward way and use resources with plenty of communities, plugins and support.
 
-Find the `theme.js` file.
-
-```text
-root
-  ├── src
-  │   ├── styles
-  │   │   ├── colors.js
-  │   │   ├── globals.js
-  │   │   └── theme.js
-```
-
-...
-
-#### Front-end web development
-
-To read the whole instruction article - [How to customize the personalBlog starter's appearance](https://dev.greglobinski.com/customize-personal-blog-starter/) - you have to move to [Front-end web development with Greg](https://dev.greglobinski.com) website.
-
-...
-
-Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
-![unsplash.com](./photo-1463852247062-1bbca38f7805.jpg)
-
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst.
-
-Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
-
-### Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.
-
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
-
-Proin ornare ligula eu tellus tempus elementum. . Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
-
-### Aenean bibendum iaculis mi, nec blandit lacus interdum vitae
-
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-### Donec hendrerit laoreet risus eget adipiscing.
-
-Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
-Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
+-Pragmatic: I am driven to find the correct fit and always willing to research and learn the best solution (with Stack Overflow, Youtube, or online tutorials), from using SMS on a website for outdoors to using PHP frameworks for reliability. Am looking to combine ease of use with the best technologies.

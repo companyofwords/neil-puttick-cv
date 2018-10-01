@@ -1,25 +1,18 @@
 ---
-title: There are only two ways to live your life. 
-subTitle: One is as though nothing is a miracle. The other is as though everything is a miracle.
+title: A Realworld Creative with award-winning projects...
+subTitle: 
 cover: photo-1451324119451-db0ac857463c-cover.jpg
 ---
 
-![unsplash.com](./photo-1451324119451-db0ac857463c.jpg)
-
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur [adipiscing](/i-am-so-clever/) elit. Proin bibendum ullamcorper rutrum.
-
-Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
-
-### Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.
-
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
-
-Proin ornare ligula eu tellus tempus elementum. . Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
-
-### Aenean bibendum iaculis mi, nec blandit lacus interdum vitae
-
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-### Donec hendrerit laoreet risus eget adipiscing.
-
-Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Life Experienced -
+I am a Town Councillor & have been chosen to stand for parliament for Macclesfield Constituency. Rather than see it get in the way of my development work, I think it compliments it
+Our successful campaign gained me 36% of the vote. In my role, I have setup 
+I have lived, worked and travelled around the world & worked across a broad range of industries. My insight and skills have helped me listen to and understand the ideas of clients from different industries. - Enjoy staying fit and healthy. -I am good at knowledge sharing: Previously worked in education for 7 years, hosting professionals across industries to develop Business English for conversation, presentations, journalistic practice and marketing English. 
+For the future -Experienced making live outdoors games and organising events for hundreds of people, and producing digital artworks for creative industries. (am.idst.org)
+ 
+A Realworld Creative with award-winning projects -Experienced making live outdoors games and organising events for hundreds of people, and producing digital artworks for creative industries. (am.idst.org)
+ -Highlights: Trained 100 actors to create an immersive Prison escape game, made a motorway "disappear", warped time in Cheshire and filled a space with 30,000 My Little Ponies. Co-founded Interval, an artist-led initiative in Bristol and have run microfunding event in Macclesfield. (comedyofarrows.idst.org)
+ -Have been written about, and organised successful workshops, plays, and performances across Europe. Most recently, I was invited to run a Life-Swapping Initiative at Art Athina in Athens. (n.idst.org)
+-I understand project needs and tailor services appropriately.
+-I am part of the new Macclesfield Town Council, helping my community as much as I can. Built websites for the town – leveraging hundreds of brick photos (Macclesfield.brickproject.co.uk) and I am now developing an app to place trees around the town for the 90 Trees for the Queen commemorations. 
+-I stay up-to-date, using twitter @companyofwords and a variety of forums.
