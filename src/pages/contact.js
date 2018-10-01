@@ -21,7 +21,7 @@ const Contact = () => {
           Feel free to contact me by email: <Obfuscate email={config.contactEmail} /> or use the
           form below.
         </Content>
-        <Form />
+        <Form netlify/>
       </Article>
     </Main>
   );
