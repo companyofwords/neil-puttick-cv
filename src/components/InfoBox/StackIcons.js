@@ -12,6 +12,9 @@ import GatsbyIcon from "!svg-react-loader!../../images/svg-icons/gatsby.svg?name
 import WebpackIcon from "!svg-react-loader!../../images/svg-icons/webpack.svg?name=WebpackIcon";
 import BabelIcon from "!svg-react-loader!../../images/svg-icons/babel.svg?name=BabelIcon";
 import NetlifyIcon from "!svg-react-loader!../../images/svg-icons/netlify.svg?name=NetlifyIcon";
+import WordpressIcon from "!svg-react-loader!../../images/svg-icons/wordpress.svg?name=WordpressIcon";
+import FirebaseIcon from "!svg-react-loader!../../images/svg-icons/firebase.svg?name=FirebaseIcon";
+import SassIcon from "!svg-react-loader!../../images/svg-icons/sass.svg?name=SassIcon";
 
 const styles = theme => ({
   stack: {
@@ -35,8 +38,8 @@ const styles = theme => ({
     padding: "8px"
   },
   svg: {
-    width: "22px",
-    height: "22px"
+    width: "20px",
+    height: "20px"
   },
   header: {
     textAlign: "center",
@@ -61,7 +64,10 @@ const StackIcons = props => {
     { name: "algolia", url: "https://www.algolia.com/", comp: AlgoliaIcon },
     { name: "webpack", url: "https://webpack.js.org/", comp: WebpackIcon },
     { name: "babel", url: "https://babeljs.io/", comp: BabelIcon },
-    { name: "netlify", url: "https://www.netlify.com/", comp: NetlifyIcon }
+    { name: "netlify", url: "https://www.netlify.com/", comp: NetlifyIcon },
+    { name: "wordpress", url: "https://www.wordpress.org/", comp: WordpressIcon },
+    { name: "firebase", url: "https://www.firebase.com/", comp: FirebaseIcon },
+    { name: "sass", url: "https://sass-lang.com/", comp: SassIcon }
   ];
 
   return (
