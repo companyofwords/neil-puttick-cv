@@ -14,7 +14,7 @@ const styles = theme => ({
       marginTop: 50
     },
     "& p:last-child": {
-      marginBottom: 0
+      marginBottom: 30
     }
   }
 });
