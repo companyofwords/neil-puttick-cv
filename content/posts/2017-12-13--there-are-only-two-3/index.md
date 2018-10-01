@@ -1,7 +1,7 @@
 ---
 title: A Realworld Creative with award-winning projects...
 subTitle: 
-cover: photo-1451324119451-db0ac857463c-cover.jpg
+cover: me-n-paul.png
 category: About
 ---
 

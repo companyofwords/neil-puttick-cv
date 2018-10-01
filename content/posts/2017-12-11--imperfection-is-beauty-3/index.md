@@ -1,7 +1,7 @@
 ---
 title: Education/Training 
 subTitle: And it's better to be absolutely ridiculous than absolutely boring 
-cover: photo-1469461084727-4bfb496cf55a-cover.jpg
+cover: jump.png
 category: About
 ---
 

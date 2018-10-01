@@ -1,7 +1,7 @@
 ---
 title: Currently Interested In...
 subTitle: Projects & Sites
-cover: photo-1465070845512-2b2dbdc6df66-cover.jpg
+cover: glitter.png
 category: About
 ---
 

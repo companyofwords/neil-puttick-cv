@@ -1,7 +1,7 @@
 ---
 title: Currently Working With...
 subTitle: Technologies & Philosophies
-cover: photo-1507915600431-5292809c5ab7-cover.jpg
+cover: tests-1.png
 ---
 
 
