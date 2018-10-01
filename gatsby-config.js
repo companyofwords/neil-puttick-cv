@@ -220,6 +220,15 @@ module.exports = {
       resolve: `gatsby-plugin-sitemap`
     },
     {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `lora`,
+          `patua one` // you can also specify font weights and styles
+        ]
+      }
+    },
+    {
       resolve: "gatsby-plugin-react-svg",
       options: {
         include: /svg-icons/
