@@ -1,5 +1,5 @@
 ---
 title: info
 ---
-
-I am a front-end web developer. I used to be a web designer also, but now I concentrate on the code.
+Offering a strong working knowledge of digital development and excellence in content generation 
+to make creative projects work.
