@@ -67,7 +67,7 @@ class CategoryFilter extends React.Component {
               aria-label="Filter by category"
               aria-haspopup="true"
               onClick={this.handleClick}
-              title="Filter the list by category"
+              title="Filter content by area"
               className={classes.open}
             >
               <FilterListIcon />
