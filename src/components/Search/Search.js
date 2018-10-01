@@ -89,7 +89,7 @@ const Search = props => {
             apiKey={algolia.searchOnlyApiKey}
             indexName={algolia.indexName}
           >
-            <SearchBox translations={{ placeholder: "Search" }} />
+            <SearchBox translations={{ placeholder: "Search Content" }} />
             <Stats />
             <Hits hitComponent={Hit} />
             <Pagination />

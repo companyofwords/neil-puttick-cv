@@ -13,8 +13,9 @@ const SearchPage = props => {
   return (
     <Main>
       <Article>
-        <PageHeader title="Search by" algolia={true} />
+        
         <Search algolia={data.site.siteMetadata.algolia} />
+        <PageHeader title="Search by" algolia={true} />
       </Article>
     </Main>
   );
