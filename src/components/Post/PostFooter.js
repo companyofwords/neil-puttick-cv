@@ -5,7 +5,9 @@ require("core-js/fn/array/find");
 
 import asyncComponent from "../common/AsyncComponent/";
 import PostAuthor from "./PostAuthor";
+import PostContact from "./PostContact";
 import PostComments from "./PostComments";
+import FooterContact from "../ContactForm/";
 
 const styles = theme => ({
   footer: {
@@ -30,7 +32,9 @@ const PostFooter = ({ classes, author, post, slug, facebook }) => {
   return (
     <footer className={classes.footer}>
       <PostAuthor author={author} />
+      <PostContact/>
     </footer>
+    
   );
 };
 
