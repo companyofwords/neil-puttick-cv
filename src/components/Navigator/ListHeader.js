@@ -72,7 +72,7 @@ const styles = theme => ({
   },
   clear: {
     position: "absolute",
-    top: 0,
+    top: "-12px",
     right: 0
   }
 });
@@ -98,7 +98,7 @@ const ListHeader = props => {
       {navigatorShape === "open" &&
         categoryFilter !== "all posts" && (
           <div className={classes.filter}>
-            <strong>My {categoryFilter}</strong>
+            <strong>{categoryFilter}</strong>
             <IconButton
               aria-label="Remove filtering"
               className={classes.clear}
