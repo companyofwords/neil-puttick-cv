@@ -19,7 +19,6 @@ const styles = theme => ({
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
       display: "block",
       color: theme.info.colors.text,
-      background: theme.info.colors.background,
       position: "absolute",
       left: 0,
       top: 0,

@@ -18,7 +18,7 @@ const theme = createMuiTheme({
       linesMargin: "20px"
     },
     fonts: {
-      unstyledFamily: `Patua One`,
+      unstyledFamily: `Lora`,
       styledFamily: "Lora",
       styledFonts: "300,400,600"
     }
@@ -27,7 +27,7 @@ const theme = createMuiTheme({
     colors: {
       text: colors.dark,
       background: colors.background,
-      socialIcons: colors.lightGray,
+      socialIcons: colors.dark,
       socialIconsHover: colors.accent,
       menuLink: colors.gray,
       menuLinkHover: colors.accent
