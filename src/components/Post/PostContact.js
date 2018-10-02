@@ -15,7 +15,7 @@ const Contact = () => {
     
       <Article>
         <Content>
-          Feel free to contact me by email: <Obfuscate email={config.contactEmail} /> or use the
+        I am looking for web development opportunities, particularly those with a social or creative side. If you would like me to be part of your team, please feel free to contact me by email: <Obfuscate email={config.contactEmail} /> or use the
           form below.
         </Content>
         <Form netlify/>

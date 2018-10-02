@@ -27,7 +27,7 @@ const styles = theme => ({
       color: theme.navigator.colors.postsHeader,
       fontWeight: 600,
       margin: "-.2em 0 0 0",
-      textTransform: "uppercase",
+      textTransform: "capitalize",
       "& small": {
         fontSize: ".6em",
         display: "block",
