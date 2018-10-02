@@ -78,6 +78,7 @@ class InfoBar extends React.Component {
           pageLinkOnClick={this.pageLinkOnClick}
         />
       </aside>
+      
     );
   }
 }
