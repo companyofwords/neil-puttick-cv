@@ -10,7 +10,7 @@ const styles = theme => ({
   author: {
     margin: "3em 0 0",
     padding: "3em 0 0",
-    borderTop: "1px solid #ddd",
+    borderTop: "1px solid rgb(252,79,8)",
     display: "flex",
     flexDirection: "column",
     alignItems: "center",

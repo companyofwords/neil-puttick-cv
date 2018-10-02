@@ -1,10 +1,10 @@
 module.exports = {
   background: "#ffffff",
   white: "#ffffff",
-  accent: "rgb(255,255,11)",
+  accent: "rgb(252,79,8)",
   bright: "#ffffff",
-  dark: "#333333",
-  gray: "#555555",
+  gray: "rgb(4, 47, 115)", //blue  --- not dark black"#333333",
+  dark: "rgb(6,58,146)",  //"#555555",
   lightGray: "#bbbbbb",
-  superLightGray: "#dedede"
+  superLightGray: "rgb(252,79,8)" //"#dedede"
 };

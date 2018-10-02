@@ -6,7 +6,7 @@ const theme = createMuiTheme({
   base: {
     colors: {
       background: colors.background,
-      text: colors.dark,
+      text: colors.gray,
       link: colors.accent,
       linkHover: Color(colors.accent)
         .lighten(0.1)
@@ -18,14 +18,14 @@ const theme = createMuiTheme({
       linesMargin: "20px"
     },
     fonts: {
-      unstyledFamily: `Lora`,
-      styledFamily: "Patua One",
+      unstyledFamily: `Patua One`,
+      styledFamily: "Lora",
       styledFonts: "300,400,600"
     }
   },
   info: {
     colors: {
-      text: colors.gray,
+      text: colors.dark,
       background: colors.background,
       socialIcons: colors.lightGray,
       socialIconsHover: colors.accent,
@@ -113,8 +113,8 @@ const theme = createMuiTheme({
   },
   footer: {
     colors: {
-      background: colors.dark,
-      text: Color(colors.white)
+      background: colors.white,
+      text: Color(colors.gray)
         .lighten(0.5)
         .string(),
       link: colors.accent,
@@ -132,7 +132,7 @@ const theme = createMuiTheme({
   bars: {
     colors: {
       background: colors.background,
-      icon: colors.gray,
+      icon: colors.dark,
       text: colors.gray
     },
     sizes: {
