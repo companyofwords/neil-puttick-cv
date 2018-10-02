@@ -1,6 +1,6 @@
 ---
-title: Currently Working With...
-subTitle: Technologies & Philosophies
+title: Work
+subTitle: Technologies, Ideas & Philosophies that I am working with...
 cover: tests-1.png
 ---
 

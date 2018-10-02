@@ -1,6 +1,6 @@
 ---
 title: Copywriter, Marketer and Researcher
-subTitle: 
+subTitle: Pragmatic to be integral to the client...
 cover: tree-n.png
 category: About
 ---

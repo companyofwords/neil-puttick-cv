@@ -1,6 +1,6 @@
 ---
-title: Education/Training 
-subTitle: And it's better to be absolutely ridiculous than absolutely boring 
+title: Education and Training 
+subTitle: and things I am still learning...
 cover: jump.png
 category: About
 ---

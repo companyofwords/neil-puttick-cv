@@ -1,6 +1,6 @@
 ---
-title: Currently Interested In...
-subTitle: Projects & Sites
+title: Interests
+subTitle: Technologies, Projects & Sites that I am interested in...
 cover: glitter.png
 category: About
 ---

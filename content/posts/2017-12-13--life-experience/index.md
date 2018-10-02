@@ -1,6 +1,6 @@
 ---
-title: A Realworld Creative with award-winning projects...
-subTitle: 
+title: Life Experience 
+subTitle: A Creative Producer working on award-winning projects...
 cover: me-n-paul.png
 category: About
 ---
