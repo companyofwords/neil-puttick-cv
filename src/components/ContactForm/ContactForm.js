@@ -13,16 +13,33 @@ function encode(data) {
 
 const styles = theme => ({
   submit: {
-    margin: "3em 0"
+    margin: "1em 0",
+    background: "rgb(252,79,8)"
     //width: "100%"
   },
   multilineInput: {
-    lineHeight: 1.4,
-    fontSize: "1.2em"
+    fontFamily: "Lora",
+    color: "rgb(252,79,8)",
+    lineHeight: 1.2,
+    fontSize: "1em",
+    color: "rgb(252,79,8)",
+    "& ::-moz-placeholder" : {
+      textAlign: "right",
+      fontStyle: "italic",
+      color: "rgb(252,79,8)"
+    },
+    "& ::-webkit-input-placeholder" : {
+      textAlign: "right",
+      fontStyle: "italic",
+      color: "rgb(252,79,8)"
+    },
   },
   singleLineInput: {
-    lineHeight: 1.4,
-    fontSize: "1.2em",
+    color: "rgb(252,79,8)",
+    fontFamily: "Lora",
+    lineHeight: 1.2,
+    fontSize: "1em",
+    color: "rgb(252,79,8)",
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       width: "47%",
       marginLeft: "3%",
@@ -85,14 +102,17 @@ class ContactForm extends React.Component {
         onSubmit={this.handleSubmit}
         onError={errors => console.log(errors)}
         name="contact"
+        color="primary"
         ref={f => (this.form = f)}
         data-netlify="true"
         data-netlify-honeypot="bot-field"
+        variant="outlined"
       >
         {submitError && <p className={classes.submitError}>{submitError}</p>}
         <TextValidator
           id="name"
           name="name"
+          color="primary"
           label="Name"
           value={name}
           onChange={this.handleChange}
@@ -105,6 +125,7 @@ class ContactForm extends React.Component {
         <TextValidator
           id="email"
           name="email"
+          color="primary"
           label="E-mail"
           value={email}
           onChange={this.handleChange}
@@ -116,6 +137,7 @@ class ContactForm extends React.Component {
         />
         <TextValidator
           id="message"
+          color="primary"
           name="message"
           label="Message"
           value={message}
