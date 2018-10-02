@@ -7,6 +7,7 @@ import Footnote from "./Footnote";
 const styles = theme => ({
   footer: {
     color: theme.main.colors.footer,
+    background: theme.footer.colors.background,
     padding: `1.5rem 1.5rem  calc(${theme.bars.sizes.actionsBar}px + 1.5rem) 1.5rem`,
     "& p": {
       margin: 0

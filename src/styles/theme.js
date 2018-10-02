@@ -113,7 +113,8 @@ const theme = createMuiTheme({
   },
   footer: {
     colors: {
-      text: Color(colors.gray)
+      background: colors.dark,
+      text: Color(colors.white)
         .lighten(0.5)
         .string(),
       link: colors.accent,
