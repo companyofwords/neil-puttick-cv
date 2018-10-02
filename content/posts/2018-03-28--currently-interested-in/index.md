@@ -11,3 +11,8 @@ category: About
 - how web technologies can be more accessible and improve people’s lives
 -incorporating Design Thinking - prototypes to solve the problems & the challenges
 -learning testing structures
+
+[Nivo D3js & ReactJs](http://nivo.rocks/)
+
+
+https://medium.com/@gmonne/create-a-brush-component-using-nivo-dataviz-library-68074f3721ba
