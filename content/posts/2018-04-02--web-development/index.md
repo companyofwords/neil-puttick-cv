@@ -1,24 +1,27 @@
 ---
-title: I work in Web Development
-subTitle: I have experience...
+title: About Me
+subTitle: My experiences as a Web Developer
 cover: postit.png
 category: About
 ---
 
+* I have 3 years vocational hands-on experience creating cutting-edge digital presence for SMEs & individuals in Bioscience, producing responsive web-apps and sites for projects and promotional campaigns.
 
-* 3 years vocational hands-on experience creating cutting-edge digital presence for SMEs & individuals in Bioscience, producing responsive web-apps and sites for projects and promotional campaigns.
+* Working independently for SMEs building, maintaining & fixing legacy Wordpress & PHP & building custom themes & plugins for Wordpress that use Laravel or React for functionality. Mainly using [Roots](https://roots.io/) to offer full-spec, highly performant Wordpress, and offering to create Member's Areas, Intranets, CRUD, quotation systems to extend what Wordpress could do.
 
-* Managing dynamic, secure, rich-content web-apps with love of React & JS using FAN (Firebase) Stack.
-
-* Working independently for SMEs building, maintaining & fixing legacy Wordpress & PHP & building custom themes & plugins for Wordpress that use Laravel or React. 
+* More recently, I am have started using my love of JS & React to manage dynamic, secure, rich-content web-apps and offering clients chance to migrating older websites to use future technologies, that create light-weight, using FAN (Firebase) Stack and JAM Stack- Javascript, APIs, Markup to improve client & contributor experience
 
 * Now looking at how to take CMS further to improve performance & user-experience, using Gatsby.JS, Netlify-CMS & Contentful investigating Serverless JAM (API & Saas) Stack, but also open to .NET Frameworks. 
 
 * Would like to work as part of an agile team or with project management structures. I am familiar with Front End Design-led for UX as well as OOP or functional programmatic design patterns. I love working with others to make a product or service.
 
-* Strong methodical workflow quickly and reliably scaffolding beautiful future-proof work using NodeJS to generate and manage sites: with NPM, Yarn, and Gulp. GIT revision control from the command line.
+* I have a strong methodical workflow quickly and reliably scaffolding beautiful future-proof work using NodeJS to generate and manage sites: with NPM, Yarn, and Gulp. Fully documented with GIT revision control from the command line.
 
-* Using stricter testing and debugging, and DRY efficiency with arsenal of tools to code quicker and make more: Sublime & Visual Code Studio with shortcuts like Emmet. Cleaner code: using ES6 & 7 with Babel, removing HTML clutter & focusing on semantic markup to improve accessibility. Cleaner design: using SASS & innovative use of CSS like Grid Layout or AMP to remove unnecessary code like clearfix.
+* In order to make the most out of technologies I am using strict testing and debugging, and DRY efficiency with arsenal of tools to code quicker and make more: 
+
+* I use Sublime & Visual Code Studio with shortcuts like Emmet
+* I build cleaner code using ES6 & 7 with Babel, removing HTML clutter & focusing on semantic markup to improve accessibility. 
+* Cleaner design: using SASS & innovative use of CSS like Grid Layout or AMP to remove unnecessary code like clearfix.
 
 * Enabling - I ensure client and team have access and input choices to work. Making lightweight, social-media connected sites anyone can use, integrated into accessible CMS (like Wordpress with Roots or custom Underscores). Now looking at how to use headless front-ends, with CMS removed from the site to increase performance and security.
  
