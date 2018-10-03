@@ -5,13 +5,17 @@ cover: postit.png
 category: About
 ---
 
+![Innovative ideas](./postitwider.jpg)
+
 * __I have 3 years vocational hands-on experience__ creating cutting-edge digital presence for SMEs & individuals in Bioscience, producing responsive web-apps and sites for projects and promotional campaigns.
 
 * __I have been working independently for SMEs__ building, maintaining & fixing legacy Wordpress & PHP & building custom themes & plugins for Wordpress that use Laravel or React for functionality. Mainly using [Roots](https://roots.io/) to offer full-spec, highly performant Wordpress, and offering to create Member's Areas, Intranets, CRUD, quotation systems to extend what Wordpress could do.
 
-* More recently, __I am have started using my love of JS & React to make__ & manage dynamic, secure, rich-content web-apps and offering clients chance to migrating older websites to use future technologies, that create light-weight, using FAN (Firebase) Stack and JAM Stack- Javascript, APIs, Markup to improve client & contributor experience
+* More recently, __I am have started using my love of JS & React to make__ & manage dynamic, secure, rich-content web-apps and offering clients chance to migrating older websites to use future technologies, that create light-weight, using FAN (Firebase) Stack and JAM Stack (Javascript, APIs, Markup) to improve client & contributor experience.
 
 * __I am investigating how to take CMS further__ to improve performance & user-experience, using Gatsby.JS, Netlify-CMS & Contentful investigating Serverless JAM (API & Saas) Stack, but also open to .NET Frameworks. 
+
+![Part of a Team](./art-space.jpg)
 
 * __I Would like to work as part of an agile team__ or with project management structures. I am familiar with Front End Design-led for UX as well as OOP or functional programmatic design patterns. I love working with others to make a product or service.
 
