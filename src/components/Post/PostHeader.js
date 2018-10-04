@@ -1,11 +1,19 @@
 import React from "react";
 import PropTypes from "prop-types";
 import injectSheet from "react-jss";
+import HeaderBackground from "./blueOrange4.svg";
 
 const styles = theme => ({
   header: {
     margin: "0 0 0.5em",
-    borderBottom: "1px solid rgb(252,79,8)"
+    borderBottom: "1px solid rgb(252,79,8)",
+    background: {
+      //color: '#ff0',
+      image:`url(${HeaderBackground})`,
+      position: 'center center fixed',
+      repeat: 'repeat',
+      size: 'cover',
+    }
   },
   title: {
     color: theme.main.colors.title,

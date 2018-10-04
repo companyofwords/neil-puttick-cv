@@ -4,6 +4,7 @@ import injectSheet from "react-jss";
 
 import Footnote from "./Footnote";
 import FooterBackground from "./blueOrange3.svg";
+import FooterBackground2 from "../../images/svg-icons/blueOrange3.svg";
 
 const styles = theme => ({
   footer: {
@@ -11,7 +12,7 @@ const styles = theme => ({
     background: {
       //color: '#ff0',
       image:`url(${FooterBackground})`,
-      position: 'center center fixed',
+      position: 'center center',
       repeat: 'repeat',
       size: 'cover',
     },
