@@ -29,7 +29,7 @@ const InfoMenu = props => {
   return (
     <nav className={classes.infoMenu}>
       <Link to="/" onClick={linkOnClick} className={classes.link} data-shape="closed">
-        My Resume
+        About Me
       </Link>
       {pages.map((page, i) => {
         const { fields, frontmatter } = page.node;
