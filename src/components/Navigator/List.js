@@ -34,7 +34,7 @@ const styles = theme => ({
   },
   list: {
     listStyle: "none",
-    margin: 0,
+    margin: "30px 0",
     padding: 0,
     ".is-aside.closed &, .moving-featured.closed &": {
       display: "none"

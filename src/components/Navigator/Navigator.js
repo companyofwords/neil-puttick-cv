@@ -7,12 +7,20 @@ import { forceCheck } from "react-lazyload";
 import { setNavigatorPosition, setNavigatorShape, setCategoryFilter } from "../../state/store";
 import { moveNavigatorAside } from "./../../utils/shared";
 import List from "./List";
+import ListBackground from "./blueOrange2.svg";
 
 const styles = theme => ({
   navigator: {
     transform: "translate3d(0, 0, 0)",
     willChange: "left, top, bottom, width",
     background: theme.navigator.colors.background,
+    background: {
+      color: 'white',
+      image:`url(${ListBackground})`,
+      position: 'left top fixed',
+      repeat: 'no-repeat',
+      size: ["320px", "300px"],
+    },
     position: "absolute",
     top: 0,
     left: 0,
