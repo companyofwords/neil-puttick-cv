@@ -34,7 +34,30 @@ category: About
 
 * __I am pragmatic__: I am driven to find the correct fit and always willing to research and learn the best solution for the job (with Stack Overflow, Youtube, or online tutorials). From using SMS on a website for outdoor users to using PHP & legacy frameworks for reliability, I look to combine ease of use with the best technologies available.
 
-*__I am an active part of communities__ As someone who is always learning
+* __I am an active part of communities__ As someone who is always learning.
 
 ***
 
+
+
+
+UAT
+internal test
+Go live
+
+AMP
+
+converting legacy 
+
+usability & access
+
+relish a challenge....
+
+
+Pre-processor like SASS
+
+
+
+
+
+User Experience - more analytical -
