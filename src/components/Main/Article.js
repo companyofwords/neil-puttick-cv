@@ -7,7 +7,7 @@ const styles = theme => ({
     background: theme.main.colors.background,
     maxWidth: theme.main.sizes.articleMaxWidth,
     margin: "0 auto",
-    padding: `calc(${theme.bars.sizes.infoBar}px + 1.5rem) 1.5rem  1.5rem 1.5rem`,
+    //padding: `calc(${theme.bars.sizes.infoBar}px + 1.5rem) 1.5rem  1.5rem 1.5rem`,
     "& strong, & b": {
       letterSpacing: "-.02em"
     },
@@ -20,12 +20,12 @@ const styles = theme => ({
         color: theme.base.colors.linkHover
       }
     },
-    [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
-      padding: `calc(2.5rem + ${theme.bars.sizes.infoBar}px) 3.5rem 2.5rem`
-    },
-    [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
-      padding: "2rem 2.5rem"
-    }
+    //[`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
+    //  padding: `calc(2.5rem + ${theme.bars.sizes.infoBar}px) 3.5rem 2.5rem`
+    //},
+    //[`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
+    //  padding: "2rem 2.5rem"
+    //}
   }
 });
 
