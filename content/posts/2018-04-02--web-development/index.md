@@ -40,13 +40,6 @@ category: About
 
 
 
-
-UAT
-internal test
-Go live
-
-AMP
-
 converting legacy 
 
 usability & access
