@@ -5,7 +5,8 @@ import HeaderBackground from "./blueOrange4.svg";
 
 const styles = theme => ({
   header: {
-    margin: "0 0 0.5em",
+    //margin: "0 0 0.5em",
+    padding: `calc(${theme.bars.sizes.infoBar}px + 1.5rem) 1.5rem  0 1.5rem`,
     borderBottom: "1px solid rgb(252,79,8)",
     background: {
       //color: '#ff0',
@@ -13,10 +14,17 @@ const styles = theme => ({
       position: 'center center fixed',
       repeat: 'repeat',
       size: 'cover',
+    },
+     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
+      padding: `calc(2.5rem + ${theme.bars.sizes.infoBar}px) 3.5rem 0`
+    },
+    [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
+      padding: "2rem 2.5rem 0"
     }
   },
   title: {
     color: theme.main.colors.title,
+    background: "white",
     fontSize: `${theme.main.fonts.title.size}em`,
     letterSpacing: "-0.04em",
     fontWeight: theme.main.fonts.title.weight,
@@ -32,6 +40,7 @@ const styles = theme => ({
   },
   subTitle: {
     color: theme.main.colors.subTitle,
+    background: "white",
     fontSize: `${theme.main.fonts.subTitle.size}em`,
     lineHeight: theme.main.fonts.subTitle.lineHeight,
     fontWeight: theme.main.fonts.subTitle.weight,
