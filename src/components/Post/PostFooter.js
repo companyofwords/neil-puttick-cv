@@ -12,12 +12,19 @@ import FooterContact from "../ContactForm/";
 const styles = theme => ({
   footer: {
     color: theme.main.colors.footer,
+    padding: `calc(${theme.bars.sizes.infoBar}px + 1.5rem) 1.5rem  1.5rem 1.5rem`,
     fontSize: `${theme.main.fonts.footer.size}em`,
     lineHeight: theme.main.fonts.footer.lineHeight,
     "& p": {
       margin: 0
     }
-  }
+  },
+   [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
+      padding: `calc(2.5rem + ${theme.bars.sizes.infoBar}px) 3.5rem 3.5rem`
+    },
+    [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
+      padding: "2rem 2.5rem 2rem"
+    }
 });
 
 const PostShare = asyncComponent(() =>

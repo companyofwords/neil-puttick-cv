@@ -137,7 +137,7 @@ const theme = createMuiTheme({
     },
     sizes: {
       actionsBar: 60,
-      infoBar: 60
+      infoBar: 30
     }
   },
   mediaQueryTresholds: {

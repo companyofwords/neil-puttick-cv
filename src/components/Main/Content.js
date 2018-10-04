@@ -8,6 +8,13 @@ import { setFontSizeIncrease } from "../../state/store";
 const styles = theme => ({
   content: {
     color: theme.main.colors.content,
+    padding: `calc(${theme.bars.sizes.infoBar}px + 0rem) 1.5rem 0rem 1.5rem`,
+   [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
+      padding: `calc(0rem + ${theme.bars.sizes.infoBar}px) 3.5rem 0rem`
+    },
+    [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
+      padding: "1rem 0rem 2rem"
+    },
     fontSize: props => `calc(${theme.main.fonts.content.size}em * ${props.fontSizeIncrease})`,
     lineHeight: theme.main.fonts.content.lineHeight,
     "& a": {
