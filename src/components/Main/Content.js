@@ -51,6 +51,12 @@ const styles = theme => ({
     "& li": {
       margin: "0 0 .5em 0"
     },
+    "& hr": {
+      height: "1px",
+      color: theme.main.colors.link,
+      backgroundColor: theme.main.colors.link,
+      border: "none"
+    },
     "& blockquote": {
       border: `5px solid ${theme.main.colors.blockquoteFrame}`,
       fontStyle: "italic",
