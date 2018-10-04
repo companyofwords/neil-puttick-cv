@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import injectSheet from "react-jss";
 
 import AlgoliaIcon from "!svg-react-loader!../../images/svg-icons/algolia-full.svg?name=AlgoliaIcon";
+import HeaderBackground from "./blueOrange3.svg";
 
 const styles = theme => ({
   header: {
@@ -10,10 +11,25 @@ const styles = theme => ({
     display: "flex",
     flexDirection: "row",
     justifyContent: "flex-start",
-    alignContent: "center"
+    alignContent: "center",
+    padding: `calc(${theme.bars.sizes.infoBar}px + 1.5rem) 1.5rem  0 1.5rem`,
+    background: {
+      //color: '#ff0',
+      image:`url(${HeaderBackground})`,
+      position: 'center center fixed',
+      repeat: 'repeat',
+      size: 'cover',
+    },
+     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
+      padding: `calc(2.5rem + ${theme.bars.sizes.infoBar}px) 3.5rem 0`
+    },
+    [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
+      padding: "2rem 2.5rem 0"
+    }
   },
   title: {
     color: theme.main.colors.title,
+    background: "white",
     fontSize: `${theme.main.fonts.title.size}em`,
     letterSpacing: "-0.04em",
     fontWeight: theme.main.fonts.title.weight,

@@ -20,8 +20,8 @@ const Contact = () => {
         <Content>
         I am looking for web development opportunities, particularly those with a social or creative side. If you would like me to be part of your team (and would like my full CV), please feel free to contact me by email: <Obfuscate email={config.contactEmail} /> or use the
           form below.
+          <Form netlify/>
         </Content>
-        <Form netlify/>
       </Article>
     </Main>
   );
