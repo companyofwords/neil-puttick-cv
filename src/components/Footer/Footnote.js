@@ -19,7 +19,8 @@ const styles = theme => ({
       listStyle: "none",
       margin: 0,
       padding: 0,
-      textAlign: "center"
+      textAlign: "center",
+      background: "white"
     },
     "& li": {
       display: "inline-block",

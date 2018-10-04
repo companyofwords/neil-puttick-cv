@@ -3,11 +3,18 @@ import PropTypes from "prop-types";
 import injectSheet from "react-jss";
 
 import Footnote from "./Footnote";
+import FooterBackground from "./blueOrange3.svg";
 
 const styles = theme => ({
   footer: {
     color: theme.main.colors.footer,
-    background: theme.footer.colors.background,
+    background: {
+      //color: '#ff0',
+      image:`url(${FooterBackground})`,
+      position: 'center center fixed',
+      repeat: 'repeat',
+      size: 'cover',
+    },
     padding: `1.5rem 1.5rem  calc(${theme.bars.sizes.actionsBar}px + 1.5rem) 1.5rem`,
     "& p": {
       margin: 0
@@ -17,6 +24,9 @@ const styles = theme => ({
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
       padding: `2rem 3rem 2rem 3rem`
+    },
+    "& svg": {
+      //fill: theme.info.colors.socialIconsHover
     }
   }
 });
