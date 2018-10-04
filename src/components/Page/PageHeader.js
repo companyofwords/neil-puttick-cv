@@ -18,7 +18,7 @@ const styles = theme => ({
     letterSpacing: "-0.04em",
     fontWeight: theme.main.fonts.title.weight,
     lineHeight: theme.main.fonts.title.lineHeight,
-    margin: "0 0 0.4em",
+    margin: "0 0 0.3em",
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       fontSize: `${theme.main.fonts.title.sizeM}em`
     },

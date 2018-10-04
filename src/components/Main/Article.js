@@ -24,7 +24,7 @@ const styles = theme => ({
       padding: `calc(2.5rem + ${theme.bars.sizes.infoBar}px) 3.5rem 2.5rem`
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
-      padding: "3.5rem"
+      padding: "2rem 2.5rem"
     }
   }
 });
