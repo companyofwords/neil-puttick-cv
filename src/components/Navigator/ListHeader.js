@@ -5,9 +5,17 @@ import IconButton from "@material-ui/core/IconButton";
 
 import CloseIcon from "@material-ui/icons/Close";
 import ExpandLessIcon from "@material-ui/icons/ExpandLess";
+import ListHeaderBackground from "./blueOrange5.svg";
 
 const styles = theme => ({
   closed: {
+    background: {
+      color: 'white',
+      image:`url(${ListHeaderBackground})`,
+      position: 'left top fixed',
+      repeat: 'no-repeat',
+      size: ["320px", "330px"],
+    },
     display: "none",
     ".is-aside.closed &, .moving-featured.closed &": {
       display: "flex",
@@ -24,6 +32,7 @@ const styles = theme => ({
     },
     "& h3": {
       fontSize: "1.1em",
+      background: "white",
       color: theme.navigator.colors.postsHeader,
       fontWeight: 600,
       margin: "-.2em 0 0 0",
@@ -84,7 +93,7 @@ const ListHeader = props => {
     <header>
       {navigatorShape === "closed" && (
         <div className={classes.closed}>
-          <h3>What I Do</h3>
+          <h3>&nbsp; &nbsp; What I Do &nbsp;</h3>
           <IconButton
             aria-label="Expand the list"
             className={classes.expand}

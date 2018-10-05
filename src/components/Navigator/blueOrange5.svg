@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="801px" height="153px" viewBox="0 0 801 153" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled 2blueOrange3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <pattern id="pattern-1" width="50" height="50" x="364" y="-49.5" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-2"></use>
+        </pattern>
+        <image id="image-2" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAAzNJREFUeAHt3M2OozAMwHG61z3P+/W+LzXvN+c5zzhIRbCBJI6wncI/EuoXBce/GI3GbR8/0/RvmqbPxzR9y23XkGP8lTc+ZfuQ7Us2jidJaB3r/D3SAzBaUzdN6+TJu05ffGLRP6yDk8juWGl9IGDYLJauCgHDBiOVhhoEDDsMNQgYthgqEDDsMZpBwPDBaAIBww+jCgKGL0YRBAx/jEMQMGIwdkHAiMPIQMCIxdiAgBGPsYCAMQbGDALGOBgJ5I9sT9no9EkStMNiMScQMLQSsr8Fhhz2mUBOb0PKMe/Y6TvlMwn01GX1aIZVZUgM85VK3aBaB28dnJzrjpW2TnH7fTBsFktXhYBhg5HKQQ0Chh2GGgQMWwwVCBj2GM0gYPhgNIGA4YdRBQHDF6MIAoY/xiEIGDEYuyBgxGFkIGDEYmxAwIjHWEDAGANjBgFjHIwEQk99sG8f01NPy7JjWF1Z6KkPhCGhfNBTV4JYVUbCkO1L3aBax28dnJyLnvo64aX7YNgslq4KAcMGIxWAGgQMOww1CBi2GCoQMOwxmkHA8MFoAgHDD6MKAoYvRhEEDH+MQxAwYjB2QcCIw8hAwIjF2ICAEY+xgIAxBsYMAsY4GAmEnjo99bQO6uOulUtPvb42sj0sFws99Szd5ScsMeTM9NTL6d++ao0hZ0ufIegbTsGd8nMVMsO3+fmQLhAw7P5UVoOAYYeRrlUqEDBsMVQgYNhjNIOA4YPRBAKGH0YVBAxfjCIIGP4YhyBgxGDsgoARh5GBgBGLsQEBIx5jAQFjDIwZBIxxMBIIPXV66mkd1MddK5eeen1tZHtYLhZ66lm6y09YYsiZ6amX07991RpDzkZPfZvy40dOGN+qjuErXK/gXufT3r5zfGqQd56sFjbt7z1fFYh3cNoEXiG+ZpArTFYDHDXfJpCo4FoTeKX4qiBXmmwLcPR8iyDRwdUSeMX4DkGuONkS8Cjz3QUZJbijBF45vgzkypPdAx5tvhuQ0YL7P4F3iG8BucNk18CjzncGGTW4VwLvFN/cD5GJP2WbfzdWbtO/gG/3zSWZd9c4e7HQUx9s8SUQKqOjNs6ujNfxfgGAxM6f6FnQSQAAAABJRU5ErkJggg=="></image>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="blueOrange1" transform="translate(400.500000, 76.500000) scale(1, -1) translate(-400.500000, -76.500000) translate(0.000000, 1.000000)">
+            <polygon id="Path" fill="#00329C" points="0 42 242 150 801 1 0 1"></polygon>
+            <polyline id="Path" stroke="#00329C" stroke-width="1.01" fill="url(#pattern-1)" points="800 1.3 414 0.5 414 151 663 85.22 663.21 110.4 724.97 93.83 725.31 67.45 800.59 47.25"></polyline>
+            <polygon id="Path" fill="#FF5C2C" points="0 1 147 62 0 42"></polygon>
+        </g>
+    </g>
+</svg>

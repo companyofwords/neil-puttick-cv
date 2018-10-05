@@ -7,7 +7,7 @@ import { forceCheck } from "react-lazyload";
 import { setNavigatorPosition, setNavigatorShape, setCategoryFilter } from "../../state/store";
 import { moveNavigatorAside } from "./../../utils/shared";
 import List from "./List";
-import ListBackground from "./blueOrange2.svg";
+import ListBackground from "./blueOrange1.svg";
 
 const styles = theme => ({
   navigator: {
@@ -39,11 +39,11 @@ const styles = theme => ({
       "&.is-aside": {
         transition: "none, bottom 0.5s",
         background: {
-          color: 'white',
+          //color: 'white',
           image:`url(${ListBackground})`,
           position: 'left top fixed',
           repeat: 'no-repeat',
-          size: ["320px", "300px"],
+          size: ["320px", "340px"],
         },
         left: 0,
         width: `${theme.info.sizes.width - 1}px`,
@@ -53,17 +53,24 @@ const styles = theme => ({
           bottom: `calc(-100% + 100px + ${theme.navigator.sizes.closedHeight}px)`,
           height: `calc(100% - 100px)`,
           background: {
-            color: 'white',
+            //color: 'white',
             image:`url(${ListBackground})`,
-            position: 'left top fixed',
+            position: 'left top',
             repeat: 'no-repeat',
-            size: ["320px", "300px"],
+            size: ["320px", "340px"],
           },
           //background: `none`
         },
         "&.open": {
           bottom: 0,
           height: `calc(100% - 150px)`,
+          background: {
+            color: 'white',
+            image:`url(${ListBackground})`,
+            position: 'left top fixed',
+            repeat: 'no-repeat',
+            size: ["320px", "340px"],
+          },
         },
         "&::after": {
           content: `""`,
