@@ -1,6 +1,6 @@
 ---
 title: What I Work with
-subTitle: Technologies, Ideas, Philosophies and Approaches that I am working with...
+subTitle: Technologies, Ideas, Philosophies and Approaches
 cover: tests-1.png
 ---
 

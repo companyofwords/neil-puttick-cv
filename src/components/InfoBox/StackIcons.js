@@ -19,6 +19,7 @@ import SassIcon from "!svg-react-loader!../../images/svg-icons/sass.svg?name=Sas
 const styles = theme => ({
   stack: {
     display: "none",
+    background: "white",
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
       display: "block",
       position: "absolute",

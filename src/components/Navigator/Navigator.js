@@ -14,13 +14,6 @@ const styles = theme => ({
     transform: "translate3d(0, 0, 0)",
     willChange: "left, top, bottom, width",
     background: theme.navigator.colors.background,
-    background: {
-      color: 'white',
-      image:`url(${ListBackground})`,
-      position: 'left top fixed',
-      repeat: 'no-repeat',
-      size: ["320px", "300px"],
-    },
     position: "absolute",
     top: 0,
     left: 0,
@@ -45,17 +38,32 @@ const styles = theme => ({
       },
       "&.is-aside": {
         transition: "none, bottom 0.5s",
+        background: {
+          color: 'white',
+          image:`url(${ListBackground})`,
+          position: 'left top fixed',
+          repeat: 'no-repeat',
+          size: ["320px", "300px"],
+        },
         left: 0,
         width: `${theme.info.sizes.width - 1}px`,
         zIndex: 1,
         top: "auto",
         "&.closed": {
           bottom: `calc(-100% + 100px + ${theme.navigator.sizes.closedHeight}px)`,
-          height: `calc(100% - 100px)`
+          height: `calc(100% - 100px)`,
+          background: {
+            color: 'white',
+            image:`url(${ListBackground})`,
+            position: 'left top fixed',
+            repeat: 'no-repeat',
+            size: ["320px", "300px"],
+          },
+          //background: `none`
         },
         "&.open": {
           bottom: 0,
-          height: `calc(100% - 150px)`
+          height: `calc(100% - 150px)`,
         },
         "&::after": {
           content: `""`,
