@@ -90,7 +90,7 @@ const styles = theme => ({
       ".is-aside.open &": {
         left: "60%",
         top: `${1.9 - theme.info.fonts.boxTitleSizeL}em`,
-        textAlign: "left"
+        textAlign: "center"
       }
     }
   },
@@ -119,6 +119,9 @@ const InfoHeader = props => {
       <h1 className={classes.title}>
         {config.infoTitle.replace(/ /g, "\u00a0")}
         <small>{config.infoTitleNote}</small>
+        <small>&</small>
+        <small>{config.infoTitleNote2}</small>
+
       </h1>
       <IconButton
         aria-label="Expand the box"

@@ -34,7 +34,7 @@ const theme = createMuiTheme({
     },
     sizes: {
       width: 320,
-      headerHeight: 170
+      headerHeight: 190
     },
     fonts: {
       boxTitleSize: 1.3,
