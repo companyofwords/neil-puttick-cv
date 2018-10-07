@@ -47,10 +47,21 @@ I am always looking to work more concisely and to learn and evolve my problem-so
 
 * I am a reseller for [Kualo](https://www.kualo.co.uk/) which uses a CPanel Hosting service, which includes Cloudflare, SSL, Server-side Caching & Private GIT Repositories.
 
+#Design Ideas
+
+* [pinterest](https://www.pinterest.co.uk/)
+
+* [behance](https://www.behance.net/)
+
+* [dribbble](https://dribbble.com/)
+
+* [awwwards](https://www.awwwards.com/websites/orange/)
+
 
 #Methodologies & Approaches
 
 * [OOP Design](https://www.youtube.com/watch?v=SS-9y0H3Si8) 
 
 * [Agile Scrum](https://www.youtube.com/watch?v=9TycLR0TqFA)
+
 
