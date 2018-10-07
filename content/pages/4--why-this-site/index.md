@@ -2,7 +2,7 @@
 title: Why I set this site up
 menuTitle: Why I set this site up
 ---
-#Some good reasons...
+#Some good reasons...please
 
 * Something must be done to make better client sites that are super-fast, futureproof & easy to use and access for both developers and contributors. As someone who has spent years working on & fixing legacy CMS websites, I don't want to do it any more. Why can't we start off with simplicity and well-planned approaches, not bloated websites with unecessary baggage? 
 
