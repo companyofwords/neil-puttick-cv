@@ -50,7 +50,7 @@ I am always looking to work more concisely and to learn and evolve my problem-so
 
 #Methodologies & Approaches
 
--[OOP Design](https://www.youtube.com/watch?v=SS-9y0H3Si8) 
+* [OOP Design](https://www.youtube.com/watch?v=SS-9y0H3Si8) 
 
--[Agile Scrum](https://www.youtube.com/watch?v=9TycLR0TqFA)
+* [Agile Scrum](https://www.youtube.com/watch?v=9TycLR0TqFA)
 
