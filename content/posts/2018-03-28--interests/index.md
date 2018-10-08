@@ -40,7 +40,7 @@ I have started to build a list of interesting repositories, libraries and links 
 
 * __Learning testing structures__ Designing code with more pure functions & testability. Writing smaller code.
 
-	[UAT](https://usersnap.com/blog/types-user-acceptance-tests-frameworks/)
+	* [UAT](https://usersnap.com/blog/types-user-acceptance-tests-frameworks/)
 
 
 * __Improving graphics and animations__ Linking SVG graphics to functionality as part of a website.
