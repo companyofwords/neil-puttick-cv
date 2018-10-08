@@ -4,7 +4,7 @@ subTitle: and things I am still learning...
 cover: jump.png
 category: About
 ---
-I love learning.
+
 ##Membership
 
 * [LevelUp Tuts](https://www.leveluptutorials.com/tutorials)  including NextJS/Wordpress REST API, Gatsby, ReactJS, JSS & CSS Animations & Transitions
@@ -73,4 +73,4 @@ I love learning.
 * __Fallibroome Academy, Macclesfield__: A levels: English Language [B] Theatre Studies [B] History [C] 
 * GCSEs: English [A/A], Mathematics [A], Science [A/A], Statistics [A], Graphic Design [A], Drama [A*], French [A], History [A*] RE [A]
 
-
+![Learning through working together](./maccwheel.jpg)

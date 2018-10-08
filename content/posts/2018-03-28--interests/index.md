@@ -5,6 +5,8 @@ cover: glitter.png
 category: About
 ---
 
+![Standing on giant dung ball](./dung.jpg)
+
 * __Using GraphQL in API development__
 
 

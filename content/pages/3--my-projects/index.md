@@ -8,8 +8,6 @@ For years, I have worked as a maintainer, keeping old legacy websites going or u
 
 Here are some of the current projects and previous websites that I have designed. As soon as I can, I will create a showcase page (designed with React Sketch App) to properly organise and display my projects in category and tags...
 
-![Happy Customer](./me-n-paul.jpg)
-
 ***
 
 ##[Apollo Therapeutics](https://apollotherapeutics.com/)

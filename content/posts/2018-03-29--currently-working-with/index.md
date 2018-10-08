@@ -20,6 +20,8 @@ By simplifying the technology in a project, I am looking to focus on the ideas &
 I am always looking to work more concisely and to learn and evolve my problem-solving skills. I avoid giving users unnecessary features, and use the technology that fits. My experience of working in SMEs means I can see the potential for projects to match the vision of a company or organisation and to inspire not just digital change but organisational change.
 
 
+![Techs looked at - in this case slime](./slime.jpg)
+
 #Technologies Deployed
 
 * [ReactJS](https://reactjs.org/docs/introducing-jsx.html) 

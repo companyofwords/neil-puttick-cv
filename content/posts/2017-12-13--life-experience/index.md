@@ -4,6 +4,9 @@ subTitle: A Creative Producer working on award-winning projects...
 cover: me-n-paul.png
 category: About
 ---
+
+![Part of the community](./community.jpg)
+
 __I have worked across a broad range of industries & roles in the real world__
 
 I believe in creating web development for a reason, and my experiences help me to create useful, practical tools and informative sites...My insight and skills have helped me listen to and understand the ideas of clients from different industries. 
@@ -19,6 +22,8 @@ I see it as vital to be a part of the communities we live in: virtual or real:
  * __I enjoy staying fit and healthy__ I practice Yoga for web professionals daily... 
 
  * __I am good at knowledge sharing__: I worked previously as a learning mentor in the education system for 7 years, hosting & teaching European professionals to develop Business English for conversation, presentations, journalistic practice and marketing English. 
+
+ ![Charity Fundraising](./charity.jpg)
 
 __A Realworld Creative with award-winning projects__ 
 

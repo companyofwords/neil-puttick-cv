@@ -17,7 +17,7 @@ category: About
 
 * More recently, __I have started to use my love Full Stack JS, particularly React__ to make and manage dynamic, secure, rich-content, light-weight web-apps; offering customers the chance to migrate older websites to use some future-facing technologies, using FAN (Firebase) Stack and JAM Stack (Javascript, APIs, Markup) to improve the client & contributor experience. In converting legacy Wordpress sites, I am looking to let users continue to have the usability & accessibility they expect from the great plugins and services they have been used to.
 
-![Innovative ideas](./postitwider.jpg)
+![Happy Customer](./me-n-paul.jpg)
 
 * __I am investigating how to take CMS further__ to improve performance, security & user-experience. My focus is on using Gatsby.JS, Netlify-CMS & Contentful investigating Serverless JAM (API & Saas) Stack. I am also investigating how we improve user experience in Wordpress, but I am also looking at how .NET Frameworks, like Umbraco can work alongside this. I have moved my research to technologies that will enable a holistic approach - seamlessly linking analytics to design so that you can showing the user what they want to see first.
 
@@ -60,3 +60,4 @@ category: About
 
 * __I am an active part of communities, online and face-to-face__ As someone who is always learning and benefits from shared knowledge, but also to improve the collective effort for a better web.
 
+![Innovative ideas](./postitwider.jpg)
