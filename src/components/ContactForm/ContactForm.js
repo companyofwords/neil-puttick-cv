@@ -23,14 +23,11 @@ const styles = theme => ({
     lineHeight: 1.2,
     fontSize: "1em",
     color: "rgb(252,79,8)",
-    "& ::-moz-placeholder" : {
-      textAlign: "right",
-      fontStyle: "italic",
-      color: "rgb(252,79,8)"
+    borderBottom: "rgb(252,79,8) 1px solid",
+    "& hover": {
+      borderBottom: "rgb(252,79,8) 1px solid"
     },
-    "& ::-webkit-input-placeholder" : {
-      textAlign: "right",
-      fontStyle: "italic",
+    "& ::placeholder" : {
       color: "rgb(252,79,8)"
     },
   },
@@ -40,6 +37,10 @@ const styles = theme => ({
     lineHeight: 1.2,
     fontSize: "1em",
     color: "rgb(252,79,8)",
+    borderBottom: "rgb(252,79,8) 1px solid",
+    "& hover": {
+      borderBottom: "rgb(252,79,8) 1px solid"
+    },
     [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       width: "47%",
       marginLeft: "3%",
@@ -136,6 +137,7 @@ class ContactForm extends React.Component {
           className={classes.singleLineInput}
         />
         <TextValidator
+          style={{ color: "red" }}
           id="message"
           color="primary"
           name="message"

@@ -63,7 +63,7 @@ const theme = createMuiTheme({
       title: colors.gray,
       subTitle: colors.gray,
       meta: colors.gray,
-      content: colors.dark,
+      content: colors.gray,
       footer: colors.gray,
       contentHeading: colors.gray,
       blockquoteFrame: colors.lightGray,
@@ -107,7 +107,7 @@ const theme = createMuiTheme({
       },
       footer: {
         size: 1,
-        lineHeight: 1.1
+        lineHeight: 1.6
       }
     }
   },
