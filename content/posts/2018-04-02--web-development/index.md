@@ -11,15 +11,15 @@ category: About
 
 ---
 
-* __I have 3 years vocational hands-on experience__ creating cutting-edge digital presence for SMEs & individuals in Science & Industry, producing responsive web apps and sites for projects and promotional campaigns.
+* __I have 3 years vocational hands-on experience__ creating cutting-edge digital presence for SMEs & individuals in science & industry, producing responsive web apps and sites for projects and promotional campaigns.
 
-* __I have worked independently and in small teams, but always for the client__ I have been responsible for building, maintaining & fixing legacy Wordpress and PHP, as well as building custom themes & plugins for Wordpress that use Laravel or React for functionality. I have used Wordpress theme ecologies like [Roots](https://roots.io/) to provide full-spec, highly performant Wordpress themes, but also creating Member's Areas, Intranets, CRUD, quotation systems to extend what Wordpress could do.
+* __I have worked independently and in small teams, but always for the client__ I have been responsible for building, maintaining & fixing legacy Wordpress and PHP, as well as building custom themes & plugins for Wordpress that use Laravel Blade Templating or React Components for functionality. I have used Wordpress theme ecologies (like [Roots](https://roots.io/)) to provide full-spec, highly performant Wordpress themes, but also creating Member's Areas, Intranets, CRUD, quotation systems to extend what Wordpress could do.
 
-* More recently, __I have started to use my love Full Stack JS, particularly React__ to make and manage dynamic, secure, rich-content, light-weight web-apps; offering customers the chance to migrate older websites to use some future-facing technologies, using FAN (Firebase) Stack and JAM Stack (Javascript, APIs, Markup) to improve the client & contributor experience. In converting legacy Wordpress sites, I am looking to let users continue to have the usability & accessibility they expect from the great plugins and services they have been used to.
+* More recently, __I have started to use my love Full Stack JS, particularly React__ to make and manage dynamic, secure, rich-content, light-weight web-apps; offering customers the chance to migrate older websites to use some future-facing technologies, using FAN ([Firebase](https://firebase.google.com/)) Stack and JAM Stack (Javascript, APIs, Markup - like [GatsbyJS](https://www.gatsbyjs.org/)) to improve the client & contributor experience. In converting legacy Wordpress sites, I am looking to let users continue to have the usability & accessibility they expect from the great plugins and services they have been used to.
 
 ![Happy Customer](./me-n-paul.jpg)
 
-* __I am investigating how to take CMS further__ to improve performance, security & user-experience. My focus is on using Gatsby.JS, Netlify-CMS & Contentful investigating Serverless JAM (API & Saas) Stack. I am also investigating how we improve user experience in Wordpress, but I am also looking at how .NET Frameworks, like Umbraco can work alongside this. I have moved my research to technologies that will enable a holistic approach - seamlessly linking analytics to design so that you can showing the user what they want to see first.
+* __I am investigating how to take CMS further__ to improve performance, security & user-experience. My focus is on using Gatsby.JS, Netlify-CMS & Contentful investigating Serverless JAM and SaaS-based Stacks. I am also investigating how we improve user experience in Wordpress, but I am also looking at how .NET Frameworks, like Umbraco can work alongside this. I have moved my research to technologies that will enable a holistic approach - seamlessly linking analytics to design so that you can showing the user what they want to see first.
 
 * __I have a strong methodical workflow__ quickly and reliably scaffolding beautiful future-proof work using NodeJS to generate and manage sites: with NPM, Yarn, and Gulp.  
 
@@ -49,7 +49,7 @@ category: About
 
 * __I will go the extra mile__ As part of SMEs, I am used to covering many different roles and have experience working with freelancers / contractors to work on product:
 
-	* Forging high-quality SEO-optimised words.
+	*  Forging high-quality SEO-optimised words.
 	*  Meticulous eye for detail and systematic approach, working efficiently and independently to deadline.
 	*  Cross-industry Research gathering and Report-writing. 
     *  Accomplished video and photo-editor for product promotion and industry showcases. 

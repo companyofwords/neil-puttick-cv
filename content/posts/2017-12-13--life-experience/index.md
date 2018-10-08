@@ -11,11 +11,11 @@ __I have worked across a broad range of industries & roles in the real world__
 
 I believe in creating web development for a reason, and my experiences help me to create useful, practical tools and informative sites...My insight and skills have helped me listen to and understand the ideas of clients from different industries. 
 
-I see it as vital to be a part of the communities we live in: virtual or real:
+I see it as vital to be a part of the communities we live in, virtual or real:
 
  * __I am a Town Councillor & have been chosen to stand for Parliament for Macclesfield Constituency__. I am now advising the [Town Council](https://macclesfield-tc.gov.uk) & [Labour Party](https://macclesfieldlabour.uk) on the tools they should use, and I am part of the community Coders For Labour. I have also advised on the needs of the UK web & IT industries and communities. 
 
- *__I use my hobbies & interests to help community work - I setup the group [IDST!](comedyofarrows.idst.org) to make community artworks with a range of transdisciplinary artists and makers. We currently run a tech & art groups at Macclesfield Community Artspace, and are now organising events and competitions. I am helping to setup a CIC (Community Interest Company) so that people's work pays off.
+ * __I use my hobbies & interests to help community work__ - I setup the group [IDST!](comedyofarrows.idst.org) to make community artworks with a range of transdisciplinary artists and makers. We currently run a tech & art groups at Macclesfield Community Artspace, and are now organising events and competitions. I am helping to setup a CIC (Community Interest Company) so that people's work pays off.
 
  * __I have lived, worked and travelled around the world__ 
 
