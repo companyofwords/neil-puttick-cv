@@ -8,7 +8,7 @@ import { setFontSizeIncrease } from "../../state/store";
 const styles = theme => ({
   content: {
     color: theme.main.colors.content,
-    padding: `calc(30px + 0rem) 1.5rem 0rem 1.5rem`,
+    padding: `1rem 1.5rem 0rem 1.5rem`,
    [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
       padding: `calc(0rem + 30px) 3.5rem 0rem`
     },

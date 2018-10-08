@@ -7,7 +7,7 @@ import HeaderBackground from "./blueOrange3.svg";
 
 const styles = theme => ({
   header: {
-    margin: "0 0 3em",
+    margin: "0 0 0em",
     display: "flex",
     flexDirection: "row",
     justifyContent: "flex-start",

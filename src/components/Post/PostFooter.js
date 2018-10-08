@@ -12,7 +12,7 @@ import FooterContact from "../ContactForm/";
 const styles = theme => ({
   footer: {
     color: theme.main.colors.footer,
-    padding: `calc(${theme.bars.sizes.infoBar}px + 1.5rem) 1.5rem  1.5rem 1.5rem`,
+    padding: `0rem 1.5rem  1.5rem 1.5rem`,
     fontSize: `${theme.main.fonts.footer.size}em`,
     lineHeight: theme.main.fonts.footer.lineHeight,
     "& p": {
