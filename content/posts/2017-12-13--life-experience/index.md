@@ -15,7 +15,7 @@ I see it as vital to be a part of the communities we live in, virtual or real:
 
  * __I am a Town Councillor & have been chosen to stand for Parliament for Macclesfield Constituency__. I am now advising the [Town Council](https://macclesfield-tc.gov.uk) & [Labour Party](https://macclesfieldlabour.uk) on the tools they should use, and I am part of the community Coders For Labour. I have also advised on the needs of the UK web & IT industries and communities. 
 
- * __I use my hobbies & interests to help community work__ - I setup the group [IDST!](comedyofarrows.idst.org) to make community artworks with a range of transdisciplinary artists and makers. We currently run a tech & art groups at Macclesfield Community Artspace, and are now organising events and competitions. I am helping to setup a CIC (Community Interest Company) so that people's work pays off.
+ * __I use my hobbies & interests to help community work__ - I setup the group [IDST!](https://comedyofarrows.idst.org) to make community artworks with a range of transdisciplinary artists and makers. We currently run a tech & art groups at Macclesfield Community Artspace, and are now organising events and competitions. I am helping to setup a CIC (Community Interest Company) so that people's work pays off.
 
  * __I have lived, worked and travelled around the world__ 
 
@@ -31,7 +31,7 @@ __A Realworld Creative with award-winning projects__
 
  * I co-founded Interval, an artist-led initiative in Bristol and have run microfunding events in Macclesfield. 
 
- * I have organised successful workshops, plays, and performances across Europe. Most recently, I was invited to run a Life-Swapping Initiative at Art Athina in Athens called [N](n.idst.org)
+ * I have organised successful workshops, plays, and performances across Europe. Most recently, I was invited to run a Life-Swapping Initiative at Art Athina in Athens called [N](https://n.idst.org)
 
  * I setup a project to give every person in Macclesfield a brick to paint - [The Brick Project](https://macclesfield.brickproject.co.uk) and setup a green initiative around the town for the 90 Trees for the Queen commemorations. 
 
