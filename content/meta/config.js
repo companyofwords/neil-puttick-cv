@@ -1,9 +1,9 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "Neil Puttick - Digital Creative Producer & Front-End Web Developer", // <title>
-  shortSiteTitle: "Neil Puttick - Digital Creative Producer & Front-End Web Developer", // <title> ending for posts and pages
-  siteDescription: "Neil Puttick - Digital Creative Producer & Front-End Web Developer.",
+  siteTitle: "Neil Puttick - Creative Producer & Front-End Web Developer", // <title>
+  shortSiteTitle: "Neil Puttick - Creative Producer & Front-End Web Developer", // <title> ending for posts and pages
+  siteDescription: "Neil Puttick - Creative Producer & Front-End Web Developer.",
   siteUrl: "https://neil-puttick-cv.netlify.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
