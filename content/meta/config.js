@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Neil Puttick - Creative Producer & Front-End Web Developer", // <title>
   shortSiteTitle: "Neil Puttick - Creative Producer & Front-End Web Developer", // <title> ending for posts and pages
   siteDescription: "Neil Puttick - Creative Producer & Front-End Web Developer.",
-  siteUrl: "https://neil-puttick-cv.netlify.com",
+  siteUrl: "https://neil-puttick-cv.netlify.app",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
