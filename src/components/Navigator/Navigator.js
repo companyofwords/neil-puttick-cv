@@ -39,8 +39,8 @@ const styles = theme => ({
       "&.is-aside": {
         transition: "none, bottom 0.5s",
         background: {
-          //color: 'white',
-          image:`url(${ListBackground})`,
+          color: 'white',
+          //image:`url(${ListBackground})`,
           position: 'left top fixed',
           repeat: 'no-repeat',
           size: ["320px", "340px"],
@@ -53,8 +53,8 @@ const styles = theme => ({
           bottom: `calc(-100% + 100px + ${theme.navigator.sizes.closedHeight}px)`,
           height: `calc(100% - 100px)`,
           background: {
-            //color: 'white',
-            image:`url(${ListBackground})`,
+            color: 'white',
+            //image:`url(${ListBackground})`,
             position: 'left top',
             repeat: 'no-repeat',
             size: ["320px", "340px"],
