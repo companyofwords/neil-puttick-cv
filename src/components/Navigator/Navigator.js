@@ -7,7 +7,7 @@ import { forceCheck } from "react-lazyload";
 import { setNavigatorPosition, setNavigatorShape, setCategoryFilter } from "../../state/store";
 import { moveNavigatorAside } from "./../../utils/shared";
 import List from "./List";
-import ListBackground from "./blueOrange1.svg";
+//import ListBackground from "./blueOrange1.svg";
 
 const styles = theme => ({
   navigator: {
